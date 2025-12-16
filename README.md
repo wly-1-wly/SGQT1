@@ -853,7 +853,7 @@
 <ul>
    <li class="product-card">
   <div class="product-pic">
-    <img src="imgs/全麦面粉.jpg" alt="十个勤天全麦面粉" class="product-img">
+    <img src="imgs/1.jpg" alt="十个勤天全麦面粉" class="product-img">
   </div>
   <div class="product-info">
     <h3 class="product-title">十个勤天全麦面粉</h3>
@@ -863,7 +863,7 @@
 
 <li class="product-card">
   <div class="product-pic">
-    <img src="imgs/后米棒.jpg" alt="十个勤天后米棒" class="product-img">
+    <img src="imgs/2.jpg" alt="十个勤天后米棒" class="product-img">
   </div>
   <div class="product-info">
     <h3 class="product-title">十个勤天后米棒</h3>
@@ -873,7 +873,7 @@
 
 <li class="product-card">
   <div class="product-pic">
-    <img src="imgs/草莓酱.jpg" alt="草莓酱" class="product-img">
+    <img src="imgs/3.jpg" alt="草莓酱" class="product-img">
   </div>
   <div class="product-info">
     <h3 class="product-title">十个勤天草莓酱罐头</h3>
@@ -883,7 +883,7 @@
 
 <li class="product-card">
   <div class="product-pic">
-    <img src="imgs/玫瑰酪.jpg" alt="玫瑰制品" class="product-img">
+    <img src="imgs/4.jpg" alt="玫瑰制品" class="product-img">
   </div>
   <div class="product-info">
     <h3 class="product-title">十个勤天玫瑰酪礼盒</h3>
@@ -893,7 +893,7 @@
 
 <li class="product-card">
   <div class="product-pic">
-    <img src="imgs/龙虾尾.jpg" alt="十个勤天小龙虾" class="product-img">
+    <img src="imgs/5.jpg" alt="十个勤天小龙虾" class="product-img">
   </div>
   <div class="product-info">
     <h3 class="product-title">十个勤天龙虾尾</h3>
@@ -903,7 +903,7 @@
 
 <li class="product-card">
   <div class="product-pic">
-    <img src="imgs/发财小手.jpg" alt="发财小手" class="product-img">
+    <img src="imgs/6.jpg" alt="发财小手" class="product-img">
   </div>
   <div class="product-info">
     <h3 class="product-title">十个勤天发财小手</h3>
@@ -913,7 +913,7 @@
 
 <li class="product-card">
   <div class="product-pic">
-    <img src="imgs/悦芯糖.jpg" alt="悦芯糖 " class="product-img">
+    <img src="imgs/7.jpg" alt="悦芯糖 " class="product-img">
   </div>
   <div class="product-info">
     <h3 class="product-title">十个勤天悦芯糖 </h3>
@@ -923,7 +923,7 @@
 
 <li class="product-card">
   <div class="product-pic">
-    <img src="imgs/烧椒酱.jpg" alt="烧椒酱" class="product-img">
+    <img src="imgs/8.jpg" alt="烧椒酱" class="product-img">
   </div>
   <div class="product-info">
     <h3 class="product-title">十个勤天烧椒酱</h3>
@@ -933,7 +933,7 @@
 
 <li class="product-card">
   <div class="product-pic">
-    <img src="imgs/玫瑰茶.jpg" alt="玫瑰茶" class="product-img">
+    <img src="imgs/9.jpg" alt="玫瑰茶" class="product-img">
   </div>
   <div class="product-info">
     <h3 class="product-title">十个勤天玫瑰茶</h3>
@@ -943,7 +943,7 @@
 
 <li class="product-card">
   <div class="product-pic">
-    <img src="imgs/芹菜.jpg" alt="芹菜" class="product-img">
+    <img src="imgs/10.jpg" alt="芹菜" class="product-img">
   </div>
   <div class="product-info">
     <h3 class="product-title">十个勤天水培芹菜</h3>
@@ -953,7 +953,7 @@
 
 <li class="product-card">
   <div class="product-pic">
-    <img src="imgs/土爽面.jpg" alt="土爽面" class="product-img">
+    <img src="imgs/11.jpg" alt="土爽面" class="product-img">
   </div>
   <div class="product-info">
     <h3 class="product-title">十个勤天土爽面</h3>
