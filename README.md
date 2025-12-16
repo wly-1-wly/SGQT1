@@ -851,7 +851,7 @@
 </h2> 
 <div class="box">
 <ul>
-    <li class="product-card">
+   <li class="product-card">
   <div class="product-pic">
     <img src="imgs/全麦面粉.jpg" alt="十个勤天全麦面粉" class="product-img">
   </div>
@@ -867,7 +867,7 @@
   </div>
   <div class="product-info">
     <h3 class="product-title">十个勤天后米棒</h3>
-    <p class="product-desc">选用2024年十个勤天收获的籼米,高钙,0添加蔗糖,0反式脂肪酸。</p>
+    <p class="product-desc">选用2024年十个勤天收获的籼米，高钙，0添加蔗糖，0反式脂肪酸。</p>
   </div>
 </li>
 
